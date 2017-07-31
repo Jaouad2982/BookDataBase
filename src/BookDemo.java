@@ -3,7 +3,7 @@
 
 
 import java.util.ArrayList;// import the arrayList
-import java.util.List// import the list 
+import java.util.List;// import the list 
 import java.util.Scanner; // import the scanner
 
 public class BookDemo {
